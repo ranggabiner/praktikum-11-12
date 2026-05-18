@@ -36,10 +36,15 @@ android {
 }
 
 dependencies {
-    implementation(libs.activity.ktx)
     implementation(libs.appcompat)
+    implementation(libs.cardview)
     implementation(libs.constraintlayout)
+    implementation(libs.glide)
     implementation(libs.material)
+    implementation(libs.recyclerview)
+    implementation(libs.swiperefreshlayout)
+    implementation(libs.volley)
+    testImplementation(libs.json)
     testImplementation(libs.junit)
     androidTestImplementation(libs.espresso.core)
     androidTestImplementation(libs.ext.junit)
