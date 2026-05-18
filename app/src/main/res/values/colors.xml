@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple_app_bar">#6B4BA8</color>
+    <color name="purple_app_bar_dark">#55368F</color>
+    <color name="screen_background">#FBF7FC</color>
+    <color name="card_background">#FFF9FF</color>
+    <color name="text_primary">#24222A</color>
+    <color name="text_secondary">#5F5968</color>
+    <color name="divider">#D6CFDD</color>
 </resources>

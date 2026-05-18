@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">praktikum 11-12</string>
+    <string name="app_name">Resep Dunia</string>
+    <string name="category_food">Kategori Makanan</string>
+    <string name="loading_recipes">Memuat resep...</string>
+    <string name="empty_recipes">Data resep kosong</string>
+    <string name="error_recipes">Gagal memuat resep</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="recipe_image">Gambar resep</string>
+    <string name="instructions_empty">Instruksi belum tersedia.</string>
 </resources>
